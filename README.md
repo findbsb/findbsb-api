@@ -4,6 +4,8 @@ Free JSON API for Australian BSB number lookups. No API key required. No signup.
 
 **Base URL:** `https://findbsb.com.au/api`
 
+[![Featured on Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=findbsb&theme=light)](https://www.producthunt.com/posts/findbsb)
+
 → [Full documentation](https://findbsb.com.au/api) · [BSB Lookup Tool](https://findbsb.com.au) · [RapidAPI](https://rapidapi.com/findbsb/api/findbsb-australian-bsb-lookup)
 
 ---
